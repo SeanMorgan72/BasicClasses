@@ -1,0 +1,15 @@
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/BasicClasses.deps.json
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/BasicClasses.runtimeconfig.json
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/BasicClasses.runtimeconfig.dev.json
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/BasicClasses.dll
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/ref/BasicClasses.dll
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/bin/Debug/net5.0/BasicClasses.pdb
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.AssemblyInfo.cs
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.dll
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/ref/BasicClasses.dll
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.pdb
+/Users/seanmorgan/repos/BasicClasses/BasicClasses/obj/Debug/net5.0/BasicClasses.genruntimeconfig.cache
